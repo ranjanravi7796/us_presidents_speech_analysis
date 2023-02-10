@@ -16,4 +16,4 @@ My analysis includes below:
 
 For the above analysis, I have used NLTK library for capturing the sentiment and the vocabularies of the speech. Later on, for finding the key theme (topic) of the speech, I performed a topic modelling technique called Latent Dirichlet Allocation (LDA). Based on this technique, I assigned each speech to a topic which contains a list of words.
 
-As I started learning the concepts of Natural Language Processing (NLP), I wanted to work with some interesting text data. Therefore, I felt why not take a real world text data (USA presidents speeches) in this case and try out what I have learnt.
+As I started learning the concepts of Natural Language Processing (NLP), I wanted to work with some interesting text data. Therefore, I felt why not take a real world text data (USA presidents speeches) in this case and try out what I have learned.
